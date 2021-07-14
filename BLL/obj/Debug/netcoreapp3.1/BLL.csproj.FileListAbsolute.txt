@@ -1,0 +1,14 @@
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\bin\Debug\netcoreapp3.1\DLL.dll
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\bin\Debug\netcoreapp3.1\Utility.dll
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\bin\Debug\netcoreapp3.1\DLL.pdb
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\ASP CORE\udemy-practise\udemy-practise\src\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

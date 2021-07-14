@@ -1,0 +1,9 @@
+D:\ASP CORE\udemy-practise\udemy-practise\src\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+D:\ASP CORE\udemy-practise\udemy-practise\src\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+D:\ASP CORE\udemy-practise\udemy-practise\src\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\ASP CORE\udemy-practise\udemy-practise\src\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.AssemblyReference.cache
+D:\ASP CORE\udemy-practise\udemy-practise\src\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+D:\ASP CORE\udemy-practise\udemy-practise\src\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+D:\ASP CORE\udemy-practise\udemy-practise\src\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+D:\ASP CORE\udemy-practise\udemy-practise\src\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+D:\ASP CORE\udemy-practise\udemy-practise\src\Utility\obj\Debug\netcoreapp3.1\Utility.pdb

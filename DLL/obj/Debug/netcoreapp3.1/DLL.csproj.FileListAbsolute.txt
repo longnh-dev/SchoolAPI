@@ -1,0 +1,12 @@
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\bin\Debug\netcoreapp3.1\DLL.deps.json
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.json
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.dev.json
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\bin\Debug\netcoreapp3.1\DLL.dll
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\bin\Debug\netcoreapp3.1\DLL.pdb
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.AssemblyReference.cache
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfoInputs.cache
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfo.cs
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CoreCompileInputs.cache
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\obj\Debug\netcoreapp3.1\DLL.dll
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\obj\Debug\netcoreapp3.1\DLL.pdb
+D:\ASP CORE\udemy-practise\udemy-practise\src\DLL\obj\Debug\netcoreapp3.1\DLL.genruntimeconfig.cache
